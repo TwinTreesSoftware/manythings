@@ -1,1 +1,1 @@
-# manythings
+# ManyThings for HTML
